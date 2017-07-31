@@ -11,7 +11,7 @@ To create a hash for the cracker to work with, use `hash.py`
 python hash.py md5 password123 >password.txt
 ```
 
-You'll get a file, `password.txt`. This contains the has for *password123*
+You'll get a file, `password.txt`. This contains the hash for *password123*
 
 To try cracking the password, use `cracker.py`.
 
